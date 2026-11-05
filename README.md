@@ -1,6 +1,6 @@
 ## Hola, soy Mateo Hernández 👋
 
-**Desarrollador Full Stack** · Cali, Colombia · [Portafolio](https://mateohdz.github.io) · [Hoja de vida (PDF)](https://mateohdz.github.io/cv/Mateo_Hernandez_Hoja_de_Vida_Desarrollador_Full_Stack.pdf) · [Resume (EN)](https://mateohdz.github.io/cv/Mateo_Hernandez_Resume_Full_Stack_Developer.pdf)
+**Desarrollador Full Stack** · Cali, Colombia · [Portafolio](https://mateohdz.github.io) · [LinkedIn](https://www.linkedin.com/in/mateo-hernandez-209384280/) · [Hoja de vida (PDF)](https://mateohdz.github.io/cv/Mateo_Hernandez_Hoja_de_Vida_Desarrollador_Full_Stack.pdf) · [Resume (EN)](https://mateohdz.github.io/cv/Mateo_Hernandez_Resume_Full_Stack_Developer.pdf)
 
 Llevo más de 3 años construyendo software completo para negocios con **JavaScript, TypeScript, React, Next.js y Node.js**: restaurantes con varias sedes, la super app de Claro, un proyecto para la Procuraduría General de la Nación, clínicas veterinarias y una empresa de seguridad electrónica. Me gusta entender el problema antes de escribir código: levanto requerimientos con el cliente, modelo los datos y las reglas, construyo con pruebas y documento lo que decido.
 
@@ -52,4 +52,4 @@ El resto de mi trabajo es código privado de empresas y clientes; lo cuento en d
 
 ---
 
-📫 [mateohernandez10012003@gmail.com](mailto:mateohernandez10012003@gmail.com) · Español nativo · Inglés A2, estudiándolo activamente
+📫 [mateohernandez10012003@gmail.com](mailto:mateohernandez10012003@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mateo-hernandez-209384280/) · Español nativo · Inglés A2, estudiándolo activamente
