@@ -1,37 +1,33 @@
 ## Hola, soy Mateo Hernández 👋
 
-**Desarrollador Full Stack** · Cali, Colombia
+**Desarrollador Full Stack** · Cali, Colombia · [Portafolio](https://mateohdz.github.io) · [Hoja de vida (PDF)](https://mateohdz.github.io/cv/Mateo_Hernandez_Hoja_de_Vida_Desarrollador_Full_Stack.pdf) · [Resume (EN)](https://mateohdz.github.io/cv/Mateo_Hernandez_Resume_Full_Stack_Developer.pdf)
 
-Llevo más de 3 años construyendo software para empresas con **JavaScript, TypeScript, React, Next.js y Node.js**. También me involucro en lo que va antes del código: me siento con el cliente, levanto requerimientos, diseño la base de datos y convierto un proceso del negocio en un producto que se use todos los días.
-
-- 🏢 Hoy trabajo en **Quantum Infinity**, en un ecosistema de productos para comercios y restaurantes: POS, gestión de pedidos y menú digital para varias sedes.
-- 🚀 Con **TeoNova**, mi marca, hago software a medida para negocios locales.
-- 🧪 Estoy diseñando **Turnia**, un planificador de turnos que calcula el costo laboral según la norma colombiana.
+Llevo más de 3 años construyendo software completo para negocios con **JavaScript, TypeScript, React, Next.js y Node.js**: restaurantes con varias sedes, la super app de Claro, un proyecto para la Procuraduría General de la Nación, clínicas veterinarias y una empresa de seguridad electrónica. Me gusta entender el problema antes de escribir código: levanto requerimientos con el cliente, modelo los datos y las reglas, construyo con pruebas y documento lo que decido.
 
 ---
 
-### Proyectos destacados
+### Proyectos públicos
 
 | Proyecto | Qué es | Stack |
 | --- | --- | --- |
-| [**TeoNova-Vet**](https://github.com/MateoHdz/TeoNova-Vet) | Punto de venta y gestión para veterinarias, con varias clínicas: ventas, inventario, mascotas, citas, gastos y reportes en Excel | NestJS · React · MySQL · Docker |
-| [**atlas-spaces**](https://github.com/MateoHdz/atlas-spaces) | Reservas para espacios de coworking que impide reservas superpuestas con transacciones atómicas; incluye dashboards y 47 pruebas automatizadas | Express · MongoDB · React · Jest · Docker |
-| [**Turnia**](https://github.com/MateoHdz/Turnia) | Arma el horario de un negocio y muestra cuánto cuesta cada turno (recargos nocturnos, dominicales y horas extra) antes de publicarlo | Diseño de producto · investigación normativa |
-| [**teonova-web**](https://github.com/MateoHdz/teonova-web) | Página de TeoNova con una esfera 3D interactiva y animaciones al hacer scroll | React 19 · TypeScript · Tailwind · Three.js |
+| [**TeoNova-Vet**](https://github.com/MateoHdz/TeoNova-Vet) | VetPOS: punto de venta y gestión para clínicas veterinarias (ventas, inventario, mascotas, citas, gastos y reportes) | NestJS · React · MySQL · Docker |
+| [**atlas-spaces**](https://github.com/MateoHdz/atlas-spaces) | Reservas para coworking que impide reservas superpuestas con transacciones atómicas; 47 pruebas automatizadas | Express · MongoDB · React · Jest · Docker |
+| [**Turnia**](https://github.com/MateoHdz/Turnia) | Planificador de turnos que muestra el costo laboral de cada turno según la norma colombiana | Diseño de producto · investigación normativa |
+| [**teonova-web**](https://github.com/MateoHdz/teonova-web) | Página de TeoNova, mi marca de software a medida | React 19 · TypeScript · Tailwind · Three.js |
 
-En repos privados también hay un **CRM para una empresa de seguridad electrónica** (cotizaciones, inventario, técnicos y comisiones), una **plataforma de fidelización por QR** en fase de diseño y una **herramienta en Python** que automatiza la entrega de expedientes catastrales.
+El resto de mi trabajo es código privado de empresas y clientes; lo cuento en detalle en el [portafolio](https://mateohdz.github.io).
 
 ---
 
 ### Experiencia
 
-- **Quantum Infinity** — Desarrollador · 2026 – hoy
-- **Mr. Max Vet** — Desarrollador Full Stack · 2026: plataforma de gestión veterinaria con POS, inventario y autenticación JWT.
-- **Softgic** — Desarrollador y Customer Success · 2025 – 2026: Mini Programas (AXML/ACSS) y una plataforma comercial en React y Next.js.
-- **Lappiz** — Desarrollador y Customer Success · 2023 – 2025: líder técnico del proyecto Relatoría para la Procuraduría General de la Nación; soluciones en React, Next.js y SQL Server; tableros en Power BI.
-- **Softgic** — Practicante ADSI · 2023
+- **Quantum Infinity** · Desarrollador Full Stack · 2026 – hoy. Desarrollador principal de un SaaS multiempresa para restaurantes (POS, gestión de pedidos y menú online) en producción para 12 empresas y 18 sedes.
+- **Mr. Max Vet** · Desarrollador Full Stack · 2026. VetPOS, sistema de punto de venta y gestión veterinaria.
+- **Softgic** · Desarrollador y Customer Success · 2025 – 2026. Mini Programas para la super app de Claro (Cinemark Preferencial y Templo de la Moda) y la App de Ventas de Claro en Next.js 16.
+- **Lappiz** · Desarrollador y Customer Success · 2023 – 2025. Líder técnico del proyecto Relatoría para la Procuraduría General de la Nación; React, Next.js, SQL Server y Power BI.
+- **Softgic** · Practicante de Análisis y Desarrollo de Software · 2023.
 
-🎓 Tecnólogo en Análisis y Desarrollo de Software, SENA
+🎓 Tecnólogo en Análisis y Desarrollo de Software, SENA (2021 – 2023)
 
 ---
 
@@ -41,10 +37,10 @@ En repos privados también hay un **CRM para una empresa de seguridad electróni
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -56,4 +52,4 @@ En repos privados también hay un **CRM para una empresa de seguridad electróni
 
 ---
 
-📫 **Contacto:** [mateohernandez10012003@gmail.com](mailto:mateohernandez10012003@gmail.com)
+📫 [mateohernandez10012003@gmail.com](mailto:mateohernandez10012003@gmail.com) · Español nativo · Inglés A2, estudiándolo activamente
